@@ -3,9 +3,11 @@ Module 2 Front End
 HTMP + CSS Project
 
 ## Specifications
-The static comp challenge is designed to get comfortable with more complex styling in CSS and HTML. I recreated a webpage based off of a provided static comp. I was not provided with any assets or native files and sourced everything on my own. I planned this composition first with mobile ussers in mind  - consdiering layout acorss various screen sizes.
+The static comp challenge is designed to get comfortable with more complex styling in CSS and HTML. I recreated a webpage based off of a provided static comp. I was not provided with any assets or native files and sourced everything on my own. I planned this composition first with mobile ussers in mind  - consdiering layout acorss various screen sizes. My personal goal was to research and focus on priciples of good website design and accessibility. 
 
-My personal goal is to spend time researching good design practices as well as accessibilty practices. I was suprised to find that the "rules" of design and accessibility are nor fully centralized, and that much of web design is totally subjective! It's more of the wild west than I anticipated.
+When it comes to accessibility, the main standard is the Web Content Accessibility Guidelines (WCAG). As of 2018 all federal agencies and contractors must comply with WCAG 2.0 A/AA. However, regardless of general acceptanve, not all websites adeher to, or even have to adhere to the guidelines. As part of the ongoing process of formalizing the internet - most people believe that the DOJ will eventually point to WCAG as the requirement
+
+As for Design, there is no such uniforming body. As far as my research showed me, design principles are generally accepted and documented - but there is no central authority. The line between accepted design principles (like too many fonts != good) and subjective interpretation is not always clear, but that uncertainly leads to truly unique web experiences. 
 
 
 ## Design Considerations
