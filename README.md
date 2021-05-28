@@ -1,4 +1,4 @@
-# Static Composition
+# 🎨 Static Composition 
 Module 2 Front End
 HTMP + CSS Project
 
