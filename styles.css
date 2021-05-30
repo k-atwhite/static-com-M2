@@ -1,0 +1,16 @@
+/* MEDIA QUERIES */
+
+/* tablet */
+
+@media screen and (max-width: 400px){
+
+/* 
+    Add in the logic of what I want for a smaller screen - for example reducing
+    the width of the main photos */
+    /* use percentages so that everything moves fluidly */
+}
+
+/* mobile */
+
+/* desktop */
+
