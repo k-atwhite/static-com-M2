@@ -1,0 +1,23 @@
+/* COLORS
+#8cbed6 - blue
+#efdfbb - beige
+#c8ad7f - tan
+#9f8170 - seal
+#483c32 - brown */
+
+/* MEDIA QUERIES */
+
+/* tablet */
+
+@media screen and (max-width: 400px){
+
+/* 
+    Add in the logic of what I want for a smaller screen - for example reducing
+    the width of the main photos */
+    /* use percentages so that everything moves fluidly */
+}
+
+/* mobile */
+
+/* desktop */
+
