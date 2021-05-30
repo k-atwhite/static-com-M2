@@ -11,7 +11,7 @@ As for Design, there is no such uniforming body. As far as my research showed me
 
 
 ## Design Considerations
-- **Responsive Design**: Layout and design that adapts to users platform, screen size, and orientation
+- **Responsive Design**: Layout and design that adapts to users platform, screen size, and orientation. I practiced using media queries to ensure that my layout snaps to common screen sizes and alters the layout to still be pleasant and usuable no matter what size device is viewing it.
 
 - **User Experience**: Users can navigate the website intuitively.
 
