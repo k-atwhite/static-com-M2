@@ -10,12 +10,13 @@
 }
 
 html {
+    background: url('./images/fabric.jpg') no-repeat;
     font-family: 'Cinzel', serif;
     margin: 0;
-    background-color:#9f8170 ;
 }
 
 nav {
+    background-image: linear-gradient(#8cbed6, transparent);
     padding: 10px;
     height: 12vh;
 }
@@ -30,14 +31,16 @@ h1 {
 
 h2 {
     margin-left: 2%; 
+    text-shadow: 2px 2px 3px white;
 }
 
 .user-login {
+    background: url('./images/user.png') no-repeat right;
+    background-size: 25px 25px;
     float: right;
-}
-
-body {
-    /* background-color: #efdfbb; */
+    padding-right: 2%;
+    cursor: pointer;
+    text-shadow: 2px 2px 3px white;
 }
 
 ul {
@@ -52,20 +55,28 @@ ul {
 
 li {
     height: 60px;
-    padding-left: 6%;
+    padding-left: 3.5%;
     padding-top: 2%;
+    margin-right: 2%;
+    cursor: pointer;
+    text-shadow: 2px 2px 3px white;
 }
 
 li.share {
     background: url('./images/share.png') no-repeat left 1px;
+    background-size: 40px 40px;
 }
 
 li.dress {
     background: url('./images/dress.png') no-repeat left 1px;
+    background-size: 40px 40px;
+
 }
 
 li.century {
     background: url('./images/clock.png') no-repeat left 1px;
+    background-size: 40px 40px;
+
 }
 
 /* li {
@@ -89,6 +100,7 @@ li.century {
     height: 40vh;
     width: 23vw;
     margin-bottom: 1%;
+    cursor: pointer;
 }
 
 .blue-text {
