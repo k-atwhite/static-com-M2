@@ -16,7 +16,8 @@ html {
 }
 
 nav {
-    background-image: linear-gradient(#8cbed6, transparent);
+    background-color: #B2e7fc;
+    /* background-image: linear-gradient(#8cbed6, transparent); */
     padding: 10px;
     height: 12vh;
 }
@@ -105,7 +106,11 @@ li.century {
 
 .blue-text {
     color: #B2e7fc;
+}
 
+img {
+    width: 23vw;
+    max-height: 20vh;
 }
 
 /* MEDIA QUERIES */
