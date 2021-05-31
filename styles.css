@@ -17,7 +17,7 @@ html {
 
 nav {
     padding: 10px;
-    /* font-family: 'Smythe', cursive; */
+    height: 12vh;
 }
 
 h1 {
@@ -28,6 +28,10 @@ h1 {
     margin-top: 1%
 }
 
+h2 {
+    margin-left: 2%; 
+}
+
 .user-login {
     float: right;
 }
@@ -36,9 +40,38 @@ body {
     /* background-color: #efdfbb; */
 }
 
-main {
-
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding-inline-start: 0px;
+    padding-top: 2%;
+    padding-left: 1.5%;
 }
+
+li {
+    height: 60px;
+    padding-left: 6%;
+    padding-top: 2%;
+}
+
+li.share {
+    background: url('./images/share.png') no-repeat left 1px;
+}
+
+li.dress {
+    background: url('./images/dress.png') no-repeat left 1px;
+}
+
+li.century {
+    background: url('./images/clock.png') no-repeat left 1px;
+}
+
+/* li {
+    margin-left: 5%;
+    margin-right: 5%;
+} */
 
 .all-cards {
     height: 75%;
@@ -53,8 +86,8 @@ main {
     border: 2px solid black;
     box-shadow: 5px 3px 3px #3f2a14;
     background-color: white;
-    height: 35vh;
-    width: 23%;
+    height: 40vh;
+    width: 23vw;
     margin-bottom: 1%;
 }
 
@@ -67,7 +100,22 @@ main {
 
 /* tablet */
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 700px){
+
+    h1 {
+        font-size: 25px;
+        margin-top: 5%;
+    }
+
+    .card {
+        border: 2px solid black;
+        box-shadow: 5px 3px 3px #3f2a14;
+        background-color: white;
+        height: 40vh;
+        width: 100vw;
+        margin-bottom: 1%;
+    }
+
 
 /* 
     Add in the logic of what I want for a smaller screen - for example reducing
