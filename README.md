@@ -2,6 +2,17 @@
 Module 2 Front End
 HTMP + CSS Project
 
+## Desktop Version
+<img width="1426" alt="desktop" src="https://user-images.githubusercontent.com/49215782/120256472-710dd600-c24b-11eb-8b06-376711bdde89.png">
+
+
+## Tablet Version
+![tablet](https://user-images.githubusercontent.com/49215782/120256460-69e6c800-c24b-11eb-8c0f-ddd4e7a25793.png)
+
+
+## Mobile Version
+![iphone 8](https://user-images.githubusercontent.com/49215782/120256455-66ebd780-c24b-11eb-86ed-6d5db52a625a.png)
+
 ## Specifications
 The static comp challenge is designed to get comfortable with more complex styling in CSS and HTML. I recreated a webpage based off of a provided static comp. I was not provided with any assets or native files and sourced everything on my own. I planned this composition first with mobile ussers in mind  - consdiering layout acorss various screen sizes. My personal goal was to research and focus on priciples of good website design and accessibility. 
 
