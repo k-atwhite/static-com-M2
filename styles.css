@@ -162,19 +162,19 @@ button {
     }
 
     .card {
-        height: 35vh;
-        width: 45vw;
+        height: 45vh;
+        width: 40vw;
         margin-bottom: 1%;
     }
 
     .dress-image {
-        width: 45vw;
+        width: 40vw;
     } 
 }
 
 
 /* mobile */
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 500px) {
 
     h1 {
         font-size: 17.5px;
