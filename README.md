@@ -11,7 +11,7 @@ When it comes to accessibility, the main standard is the Web Content Accessibili
 As for Design, there is no such uniforming body. As far as my research showed me, design principles are generally accepted and documented - but there is no central authority. The line between accepted design principles (like too many fonts != good) and subjective interpretation is not always clear, but that uncertainly leads to truly unique web experiences. 
 
 ## Original Comp with which to take creative liberties
-![Uploading Screen Shot 2021-06-01 at 8.55.18 AM.png…]()
+<img width="743" alt="Screen Shot 2021-06-01 at 8 55 18 AM" src="https://user-images.githubusercontent.com/49215782/120346919-0dba8d00-c2b9-11eb-8b3a-3862814721fb.png">
 
 
 ## Desktop Version
