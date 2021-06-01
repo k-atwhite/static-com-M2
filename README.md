@@ -2,6 +2,18 @@
 Module 2 Front End
 HTMP + CSS Project
 
+## Specifications
+The static comp challenge is designed to get comfortable with more complex styling in CSS and HTML. I recreated a webpage based off of a provided static comp. I was not provided with any assets or native files and sourced everything on my own. I planned this composition first with mobile ussers in mind  - consdiering layout acorss various screen <img width="743" alt="Screen Shot 2021-06-01 at 8 55 18 AM" src="https://user-images.githubusercontent.com/49215782/120344894-3e99c280-c2b7-11eb-9187-609864aa3d7d.png">
+sizes. My personal goal was to research and focus on priciples of good website design and accessibility. 
+
+When it comes to accessibility, the main standard is the Web Content Accessibility Guidelines (WCAG). As of 2018 all federal agencies and contractors must comply with WCAG 2.0 A/AA. However, regardless of general acceptanve, not all websites adeher to, or even have to adhere to the guidelines. As part of the ongoing process of formalizing the internet - most people believe that the DOJ will eventually point to WCAG as the requirement
+
+As for Design, there is no such uniforming body. As far as my research showed me, design principles are generally accepted and documented - but there is no central authority. The line between accepted design principles (like too many fonts != good) and subjective interpretation is not always clear, but that uncertainly leads to truly unique web experiences. 
+
+## Original Comp with which to take creative liberties
+![Uploading Screen Shot 2021-06-01 at 8.55.18 AM.png…]()
+
+
 ## Desktop Version
 <img width="1426" alt="desktop" src="https://user-images.githubusercontent.com/49215782/120256472-710dd600-c24b-11eb-8b06-376711bdde89.png">
 
